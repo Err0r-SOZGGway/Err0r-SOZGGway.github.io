@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# About
 
-You can use the [editor on GitHub](https://github.com/Ne0-N-line/Ne0-N-line.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Ne0（ねお）と申します。
+一般知的好奇心に従う系クリエイターの卵以下（編集時点）兼Vの観測者兼ゲームエンジョイ勢。
+HTML・CSS・JavaScriptで作ったWebサイトの制作と公開、Unityでゲーム制作、Blenderの3Dモデリングなど色々やってます。（ほとんど簡単なのばっか）
+Web開発やVR・ARといった領域に興味がありますが、基本面白そうなら大体何でもやります。（ITでもそうでなくても）
+趣味…ゲーム、プログラミング、音楽鑑賞（HARDCOREなどキック強めな曲）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Profile
+- 名前:Ne0
+- いるところ:仮想空間
+- 得意なこと:寝ること食うこと遊ぶこと、そして諦めないこと。後、Webサイト作成、ゲーム企画発案、シナリオ作成
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ne0-N-line/Ne0-N-line.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Twitter](https://twitter.com/NEO_V_Obs)
