@@ -27,8 +27,8 @@ Web開発やVR・ARといった領域に興味がありますが、基本面白�
 - OS…Windows,Linux(Ubuntu)
 - Languages…HTML,CSS,JavaScript,C,Python
 - Engine,Frameworks…Node.js
-- Tool,MiddleWare…Git
-- 資格、免許…第二種電気工事士
+- Tool,MiddleWare…Git,Virtualbox
+- 資格、免許…第二種電気工事士、基本情報技術者試験
 
 # Works
 - [GitHub](https://github.com/Ne0-N-line)
