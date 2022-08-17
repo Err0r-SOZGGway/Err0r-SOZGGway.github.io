@@ -1,4 +1,4 @@
-![プロフィール画像]<link rel="stylesheet" href="https://Err0r-SOZGGway/first piskel.png"/>
+<img src="first piskel.png" alt="プロフィール画像" width="300" height="300" >
 
 <iframe src="https://openprocessing.org/sketch/1174070/embed/" width="400" height="400"></iframe>
 
